@@ -4,7 +4,7 @@
       Comandos basicos de HTML
     </TITLE>
   </HEAD>
-  <BODY>
+  <BODYstyle="background-color: green;">
 
     <h1><b>Comandos basicos de HTML</b></h1>
 
